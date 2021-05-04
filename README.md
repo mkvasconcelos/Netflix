@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fassets.b9.com.br%2Fwp-content%2Fuploads%2F2016%2F06%2Fnetflix-logo-thumb.jpg&imgrefurl=https%3A%2F%2Fwww.b9.com.br%2F65595%2Fnetflix-apresenta-novo-logo%2F&tbnid=YD3tB2uHyPkvRM&vet=12ahUKEwjpwq3M-7DwAhXzjZUCHfYtDdEQMygBegUIARC2AQ..i&docid=gH19eXdNnd8WlM&w=1060&h=596&q=netflix%20logo&ved=2ahUKEwjpwq3M-7DwAhXzjZUCHfYtDdEQMygBegUIARC2AQ" width="175" alt="" />
+  <img src="https://assets.b9.com.br/wp-content/uploads/2016/06/netflix-logo-thumb.jpg" width="175" alt="" />
 </p>
 
 # Netflix Homepage
